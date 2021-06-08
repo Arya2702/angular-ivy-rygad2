@@ -10,7 +10,6 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
   imports: [
     BrowserModule,
     FormsModule,
-    MatButtonModule,
     BrowserAnimationsModule
   ],
   declarations: [AppComponent, HelloComponent],
