@@ -9,7 +9,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser';
 
 @NgModule({
   imports: [BrowserModule, FormsModule, MatButtonModule],
-  declarations: [AppComponent, HelloComponent],
+  declarations: [AppComponent, HelloComponent, BrowserAnimationsModule],
   bootstrap: [AppComponent]
 })
 export class AppModule {}
